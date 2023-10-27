@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineBotPushMessage", "LineBotPushMessage\LineBotPushMessage.csproj", "{EA4735E1-0E52-4B3F-9419-F74BB455F134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4735E1-0E52-4B3F-9419-F74BB455F134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4735E1-0E52-4B3F-9419-F74BB455F134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4735E1-0E52-4B3F-9419-F74BB455F134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4735E1-0E52-4B3F-9419-F74BB455F134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DCC485F-4FD5-4837-95C2-6F998049AAEB}
+	EndGlobalSection
+EndGlobal
